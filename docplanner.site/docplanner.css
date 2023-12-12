@@ -1,0 +1,137 @@
+li{display: inline;position: relative;left:620px;margin-right: 25px;font-size: 18px;
+font-weight: 400;bottom: 12px;letter-spacing: 0.2px;background-color: transparent;}
+
+a{text-decoration: none;position: relative;left:300px;
+   }
+
+   body{ overflow-x: hidden;}
+
+   
+   .about{color:#00b39b}
+   .career{color: #ababab ;}
+
+   a:hover{color: #00b39b;transform: background 0.5s;}
+
+.barrenav{position:fixed;z-index: 1000;width: 100%;background-color: white
+;position: fixed;top: 0px;height: 70px;z-index: 1000;}
+
+
+.choix{color: #ababab;text-decoration: none;
+    border: none;font-size: 18px;}
+
+    select{border: none;color: #ababab}
+
+    .h1{position: relative;top: 100px;left: 360px;letter-spacing: 2px;word-spacing: 2px;font-weight: 100;
+        color: #00b39b;font-size: 2.125rem;font-family: 'Work Sans', sans-serif;}
+
+.colonnea{position: relative;top: 99px;word-spacing: 2px;left: 200px;
+    font-family:  'Work Sans', sans-serif;font-weight: 300;line-height: 1.75;
+color: grey;}
+
+.colonneb{position: relative;top: 98px;line-height: 1.75;left: 200px;font-family: 'Work Sans', sans-serif ;}
+
+h1{color: white;position: relative;bottom: 30px;right: 35px;font-weight: 300;font-family:'Work Sans', sans-serif ;}
+
+h2{color: white;font-weight: 300;font-family: 'Work Sans', sans-serif;font-size: 32px;
+    position: relative;bottom: 47px;right: 27px;}
+
+#pays{background-color:transparent;border: none;color: white;font-size: 22px;
+       font-family:  'Work Sans', sans-serif;text-decoration: underline;position: relative;right: 35px;font-weight: 700;
+        list-style: none;}
+
+        blockquote{font-weight: bold;}
+
+ .write1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, 
+    Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+    .textcartedoctors{position: relative;top: 14px;}
+
+    .cartechoice{position: relative;left: 1100px;bottom: 35px;font-size: 20px;}
+    .cartechoice:hover{color: #00b39b;transform: background 0.5s;}
+
+    h3{     color: white;
+            font-weight: 300;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 32px; position: relative;
+            bottom: 20px;right: 38px;
+           
+ }
+ 
+  .selectcountry2{position: relative;bottom: 40px;font-size: 30px;}
+   
+  .selectcountry3{position: relative;left: 30px;top: 15px;}
+
+
+  h6{position: relative;bottom: 550px;left: 180px;font-weight:bold
+    ;font-family: 'Work Sans', sans-serif;
+    font-size: 29px;color: #00b39b;line-height: 1.2;}
+
+    .brand-logo {
+        list-style: none;position: relative;right: 470px;bottom: 700px;
+    
+    }
+    
+    .brand-logo li {
+        font-size: 16px;
+        width: 168px;
+    }
+    
+    .brand-logo li:hover svg {
+        fill: #00b39b;
+    }
+    
+    .brand-logo li svg {
+        height: 20px;
+        fill: #747474;justify-content: space-around;
+    }
+
+.pp {position: relative;right: 885px;top: 60px;}
+
+    .ww img{fill: rgb(57, 57, 57);filter:grayscale(100%);}   
+
+   .ww img:hover{filter: hue-rotate(3deg);}
+
+
+      .tofgipo img{width: 200px; height: 34px;filter: grayscale(100%);}
+
+    .tofgipo img:hover{filter: hue-rotate(3deg);}
+
+
+      .logoclinic img{ position: relative;left: 1190px;bottom: 780px;
+        filter: grayscale(100%);}
+        
+        .logoclinic img:hover{ filter: brightness(1);}
+
+        .feegow img{ filter: grayscale(100%);position: relative;bottom: 640px;left: 24px;}
+        .feegow img:hover{ filter: brightness(1.4);}
+      
+        
+      .tuotempo img{filter: grayscale(100%);position: relative;bottom: 707px;left: 610px}
+      .tuotempo img:hover{filter: brightness(1.1);}
+
+
+       #status{background-color: #e5faf8;}
+
+       main{overflow-y: hidden;overflow-x: hidden;}
+
+       .status{background-color: #00ccb126;height: 630px;position: relative;bottom: 650px;}
+
+       p{ font-family: 'Work Sans', sans-serif ;font-size: 25px;color: #00b39b;font-weight: bold;
+           position: relative;left: 375px;bottom: 270px;}
+
+           .soustitre{color: #747474;font-size: 17px;}
+
+
+
+
+
+      
+   
+    
+    
+
+    
+      
+  
+ 
