@@ -1,0 +1,374 @@
+li{display: inline;position: relative;left:620px;margin-right: 25px;font-size: 18px;
+font-weight: 400;bottom: 12px;letter-spacing: 0.2px;background-color: transparent;}
+
+a{text-decoration: none;position: relative;left:300px;
+   }
+
+  body{max-width: 100%;overflow-x: hidden;
+        margin: auto;
+        padding: 0;overflow-y: inherit;
+ }
+
+@media (max-device-width: 480px) {
+    body {
+        padding-top:50px} }
+
+   
+   .about{color:#00b39b}
+   .career{color: #ababab ;}
+
+   a:hover{color: #00b39b;transform: background 0.5s;}
+
+.barrenav{position:fixed;z-index: 1000;width: 100%;background-color: white
+;position: fixed;top: 0px;height: 70px;z-index: 1000;}
+
+
+.choix{color: #ababab;text-decoration: none;
+    border: none;font-size: 18px;}
+
+    select{border: none;color: #ababab}
+
+    .h1{position: relative;top: 100px;left: 360px;letter-spacing: 2px;word-spacing: 2px;font-weight: 100;
+        color: #00b39b;font-size: 2.125rem;font-family: 'Work Sans', sans-serif;}
+
+.colonnea{position: relative;top: 99px;word-spacing: 2px;left: 200px;
+    font-family:  'Work Sans', sans-serif;font-weight: 300;line-height: 1.75;
+color: grey;}
+
+.colonneb{position: relative;top: 98px;line-height: 1.75;left: 200px;font-family: 'Work Sans', sans-serif ;}
+
+h1{color: white;position: relative;bottom: 30px;right: 35px;font-weight: 300;font-family:'Work Sans', sans-serif ;}
+
+h2{color: white;font-weight: 300;font-family: 'Work Sans', sans-serif;font-size: 32px;
+    position: relative;bottom: 47px;right: 27px;}
+
+#pays{background-color:transparent;border: none;color: white;font-size: 22px;
+       font-family:  'Work Sans', sans-serif;text-decoration: underline;position: relative;right: 35px;font-weight: 700;
+        list-style: none;}
+
+        blockquote{font-weight: bold;}
+
+ .write1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, 
+    Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+    .textcartedoctors{position: relative;top: 14px;}
+
+    .cartechoice{position: relative;left: 1100px;bottom: 35px;font-size: 20px;}
+    .cartechoice:hover{color: #00b39b;transform: background 0.5s;}
+
+    h3{     color: white;
+            font-weight: 300;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 32px; position: relative;
+            bottom: 20px;right: 38px;
+           
+ }
+ 
+  .selectcountry2{position: relative;bottom: 40px;font-size: 30px;}
+   
+  .selectcountry3{position: relative;left: 30px;top: 15px;}
+
+
+  h6{position: relative;bottom: 550px;left: 180px;font-weight:bold
+    ;font-family: 'Work Sans', sans-serif;
+    font-size: 29px;color: #00b39b;line-height: 1.2;}
+
+    .brand-logo {
+        list-style: none;position: relative;right: 470px;bottom: 700px;
+    
+    }
+    
+    .brand-logo li {
+        font-size: 16px;
+        width: 168px;
+    }
+    
+    .brand-logo li:hover svg {
+        fill: #00b39b;
+    }
+    
+    .brand-logo li svg {
+        height: 20px;
+        fill: #747474;justify-content: space-around;
+    }
+
+.pp {position: relative;right: 885px;top: 60px;}
+
+    .ww img{fill: rgb(57, 57, 57);filter:grayscale(100%);}   
+
+   .ww img:hover{filter: hue-rotate(3deg);}
+
+
+      .tofgipo img{width: 200px; height: 34px;filter: grayscale(100%);}
+
+    .tofgipo img:hover{filter: hue-rotate(3deg);}
+
+
+      .logoclinic img{ position: relative;left: 1190px;bottom: 800px;
+        filter: grayscale(100%);}
+        
+        .logoclinic img:hover{ filter: brightness(1);}
+
+        .feegow img{ filter: grayscale(100%);position: relative;bottom: 640px;left: 24px;}
+        .feegow img:hover{ filter: brightness(1.4);}
+      
+        
+      .tuotempo img{filter: grayscale(100%);position: relative;bottom: 707px;left: 610px}
+      .tuotempo img:hover{filter: brightness(1.1);}
+
+      .status{color: black;position: relative;
+               bottom: 278px;left: 330px;font-family:'Work Sans', sans-serif;font-size: 33px;
+            color: #00b39b;font-weight: bold;}
+
+            .wework{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont,
+                 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                  font-size: 13px;font-weight: lighter;}
+
+                  b{font-weight: 300;}
+
+             #partietwo{color: #00ccb156;}
+
+             .ben{background-color: white;width: 220px;height:260px ;;position: relative;bottom: 430px;
+                  left: 750px;border-radius: 4px;}
+                  .niar{position: relative;bottom: 460px;background-color:white;line-height: 1.7;width: 220px;height: 260px;
+                        border-radius: 5px;left: 770px;}
+                        .niet{background-color: white;width: 220px;height:230px ;;position: relative;bottom: 155px;
+                              left: 300px;border-radius: 10px;}
+                              .nient{background-color: white;width: 220px;height:230px ;position: relative;border-radius: 10px;
+                                       left: 320px;bottom: 180px;
+                                      
+                                }
+        
+                                .poland{color: #747474;font-size: 14px;
+                                        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                        font-weight: lighter;position: relative;top: 20px;}         
+                                .improve{color: #00b39b;font-size: 30px;font-family:'Work Sans', sans-serif ;
+                                           position: relative;bottom: 590px;left: 670px;font-weight: bold;}
+
+
+               .more{ line-height: 1.75;color: #747474;font-weight: bold;}
+
+                .box1{height: 350px;background-color:white;
+                      position: relative;bottom: 310px;left: 100px;
+                      width: 310px;
+                      border: 1px solid #ddd;
+                      border-radius: 8px;
+                      padding: 16px;
+                      margin: 16px;
+                      width: 300px;
+                      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+
+                      .box1:hover{box-shadow: 3px 3px 3px black;}
+                      .box2:hover{box-shadow: 3px 3px 3px black}
+                      .box3:hover{box-shadow: 3px 3px 3px black}
+                      .box4:hover{box-shadow: 3px 3px 3px black}
+                      .box5:hover{box-shadow: 3px 3px 3px black}
+                      .box6:hover{box-shadow: 3px 3px 3px black}
+                      .box7:hover{box-shadow: 3px 3px 3px black}
+                      .box8:hover{box-shadow: 3px 3px 3px black}
+                      .box9:hover{box-shadow: 3px 3px 3px black}
+                      .box10:hover{box-shadow: 3px 3px 3px black}
+
+                      .see{padding: 10px;border-radius: 5px;background-color: #3d83df;color: white;
+                             position: relative;bottom: 20px;}
+                       .see:hover{box-shadow: 2px 2px 2px black;}      
+
+                     .warsaw{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                             Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                             letter-spacing: 1;font-weight: 500;position: relative;
+                              bottom: 15px;right: 30px;}   
+
+                             .Barcelona{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px;}
+
+                                .munich{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                    letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                    .Istanbul{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                        letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                       .rome{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                        letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px} 
+                                        .bologna{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                            Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                            letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                            .curitiba{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                            Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                            letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                            .riodejaneiro{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                                Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                                letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                                .mexicocity{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                                    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                                    letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+                                                    .bogota{color:#747474;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+                                                        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 20px;
+                                                        letter-spacing: 1;font-weight: 500;position: relative;bottom: 15px;right: 30px}
+
+                             .box2{height: 350px;background-color:white;
+                                position: relative;bottom: 310px;left: 100px;
+                                border: 1px solid #ddd;
+                                border-radius: 8px;
+                                padding: 16px;
+                                margin: 16px;
+                                width: 300px;
+                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);}
+
+                                .box2 img{height:305px; width:333px ;
+                                          position: relative;
+                                          right: 17px;bottom:20px;}
+
+                                          .box3{height: 350px;background-color:white;
+                                            position: relative;bottom: 310px;left: 100px;
+                                            border: 1px solid #ddd;
+                                            border-radius: 8px;
+                                            padding: 16px;
+                                            margin: 16px;
+                                            width: 300px;
+                                            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}
+                                            .box3 img{height:305px; width:333px ;
+                                          position: relative;
+                                          right: 17px;bottom:20px;}
+
+                                         .box4{height: 350px;background-color:white;
+                                            position: relative;top: 100px;right: 1010px;
+                                            border: 1px solid #ddd;
+                                            border-radius: 8px;
+                                            padding: 16px;
+                                            margin: 16px;
+                                            width: 300px;
+                                            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)} 
+                                            .box4 img{height:305px; width:333px ;
+                                                position: relative;
+                                                right: 17px;bottom:20px}
+                                             .box5{height: 350px;background-color:white;
+                                                position: relative;top: 100px;right: 1010px;
+                                                border: 1px solid #ddd;
+                                                border-radius: 8px;
+                                                padding: 16px;
+                                                margin: 16px;
+                                                width: 300px;
+                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}   
+                                               .box5 img{height:305px; width:333px ;
+                                                position: relative;
+                                                right: 17px;bottom:20px} 
+                                                .box6{height: 350px;background-color:white;
+                                                    position: relative;top: 100px;right: 1010px;
+                                                    border: 1px solid #ddd;
+                                                    border-radius: 8px;
+                                                    padding: 16px;
+                                                    margin: 16px;
+                                                    width: 300px;
+                                                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}
+
+                                                    .box6 img{height:305px; width:333px ;
+                                                        position: relative;
+                                                        right: 17px;bottom:20px}
+
+                                                      .box7{height: 350px;background-color:white;
+                                                        position: relative;top: 510px;right:2120px;
+                                                        border: 1px solid #ddd;
+                                                        border-radius: 8px;
+                                                        padding: 16px;
+                                                        margin: 16px;
+                                                        width: 300px;
+                                                        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}  
+                                                        .box7 img{height:305px; width:333px;
+                                                            position: relative;
+                                                            right: 17px;bottom:20px}
+
+                                                            .box8{height: 350px;background-color:white;
+                                                                position: relative;top: 510px;right:2115px;
+                                                                border: 1px solid #ddd;
+                                                                border-radius: 8px;
+                                                                padding: 16px;
+                                                                margin: 16px;
+                                                                width: 300px;
+                                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}
+                                                                .box8 img{height:305px; width:333px;
+                                                                    position: relative;
+                                                                    right: 17px;bottom:20px}
+
+                                                                    .box9{height: 350px;background-color:white;
+                                                                        position: relative;top: 510px;right:2120px;
+                                                                        border: 1px solid #ddd;
+                                                                        border-radius: 8px;
+                                                                        padding: 16px;
+                                                                        margin: 16px;
+                                                                        width: 300px;
+                                                                        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}
+                                                                        .box9 img{height:305px; width:333px;
+                                                                            position: relative;
+                                                                            right: 17px;bottom:20px}
+
+                                                                            .box10{height: 350px;background-color:white;
+                                                                                position: relative;top: 910px;right:3225px;
+                                                                                border: 1px solid #ddd;
+                                                                                border-radius: 8px;
+                                                                                padding: 16px;
+                                                                                margin: 16px;
+                                                                                width: 300px;
+                                                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)}
+                                                                                .box10 img{height:305px; width:333px;
+                                                                                    position: relative;
+                                                                                    right: 17px;bottom:20px}
+
+                                                           #boxyi{display: flex;
+                                                                   position: relative;left: 50px;
+                                                                   bottom: 220px;}        
+                                                                   
+                                                                 #container{display:block;
+                                                                            position: relative;right: 200px;
+                                                                 }
+
+                                                                #one{display: block;
+                                                                     position: relative;
+                                                                     }
+ 
+                                                                     footer{position: relative;
+                                                                            top: 700px;
+                                                                             left: 500px;
+                                                                             font-size: 2.1428571429em;
+                                                                             color: #333;
+                                                                             margin-bottom: 0.75em;
+                                                                            font-family:'Work Sans', sans-serif;
+                                                                            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                                                                             Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                                             z-index: 1000;
+                                                                            
+                                                                             }
+
+                                                                            .leaders{position: relative;
+                                                                                      top: 20px;right: 490px;
+
+                                                                                  
+                                                                                      z-index: 1000;
+                                                                                      width: 100%;
+                                                                                      
+                                                                                       }
+
+                                                                                       
+                                                                             
+
+
+                                                                          
+                                                                            
+                                                                     
+
+     
+
+
+
+      
+   
+    
+    
+
+    
+      
+  
+ 
